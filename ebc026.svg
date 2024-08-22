@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="60px" viewBox="0 0 36 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <linearGradient x1="0.734402507%" y1="47.9722327%" x2="98.9391735%" y2="47.9722327%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.47512086e-08%" y1="50.0000247%" x2="99.9999983%" y2="50.0000247%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="49.9999973%" cy="49.999993%" fx="49.9999973%" fy="49.999993%" r="49.9999995%" gradientTransform="translate(0.5, 0.5), scale(1, 0.7647), translate(-0.5, -0.5)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1693989" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="-4.08045334e-06%" y1="50.0000059%" x2="99.9999964%" y2="50.0000059%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.42" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.08743169" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EBC-Farbe" transform="translate(1.25, 1)">
+            <polygon id="EBC" fill="#ad3a00" fill-rule="nonzero" points="5.5 54.8714885 0.25 5.62148846 33.25 5.62148846 28 54.8714885"></polygon>
+            <g id="glass" transform="translate(0.0147, 0.1215)" fill-rule="nonzero">
+                <path d="M27.9852676,53 C24.4120833,54 20.6620833,54.5 16.7352676,54.5 C12.911404,54.5 9.16140399,54 5.48526756,53 L5.73526756,56.25 C8.96113715,57.0833333 12.6278038,57.5 16.7352676,57.5 C20.8427308,57.5 24.5093974,57.0833333 27.7352676,56.25 L27.9852676,53 Z" id="bottom" fill="url(#linearGradient-1)"></path>
+                <path d="M0.000447268507,2.17518215 C-0.00967253959,3.05839405 0.151934223,4.91666667 0.485267556,7.75 C2.15193422,6.58333333 7.56860089,6 16.7352676,6 C25.9019342,6 31.3186009,6.58333333 32.9852676,7.75 C33.3186009,4.91666667 33.5017356,3.04650922 33.5346716,2.13952765 C31.8340757,0.779055304 25.9294846,-8.8817842e-16 16.7352676,-8.8817842e-16 C7.47885267,-8.8817842e-16 1.73526756,0.75 0.000447268507,2.17518215 Z" id="top" fill="url(#linearGradient-2)"></path>
+            </g>
+            <g id="separator" transform="translate(0.5, 6.1215)" stroke="#333333" stroke-width="0.402668347">
+                <path d="M5,47 C7.83333333,48 11.5833333,48.5 16.25,48.5 C20.9166667,48.5 24.6666667,48 27.5,47" id="bottom"></path>
+                <path d="M0,1.75 C1,1 5.25,0 16.25,0 C27.25,0 31.5,1 32.5,1.75" id="top"></path>
+            </g>
+            <g id="glare" transform="translate(1.75, 0)" fill-rule="nonzero">
+                <path d="M15,35.6214885 C7.82029758,35.6214885 2,28.0103292 2,18.6214885 C2,9.23264774 7.82029758,1.62148846 15,1.62148846 C22.179701,1.62148846 28,9.23264774 28,18.6214885 C28,28.0103292 22.179701,35.6214885 15,35.6214885 Z" id="diffuse" fill="url(#radialGradient-3)"></path>
+                <path d="M13.743826,0 C8.21552954,0.0576515935 2.73148713,0.633150773 0,1.25 L5.5,56.75 C7.47692425,57.1817747 11.0966758,57.6716908 14.8264851,57.6816106 L13.743826,0 Z" id="sharp" fill="url(#linearGradient-4)"></path>
+            </g>
+            <path d="M0,2.62148846 C0,0.121488457 13.75,0.121488457 16.75,0.121488457 C19.75,0.121488457 33.5,0.121488457 33.5,2.62148846 C33.25,6.62148846 28.25,51.6214885 27.75,56.1214885 C27.75,56.8668227 21.5,57.621572 16.75,57.621572 C12,57.621572 5.75,56.8714885 5.75,56.1214885 C5.25,51.6214885 0.25,6.62148846 0,2.62148846 Z" id="Outline" stroke="#333333" stroke-width="0.402668347"></path>
+        </g>
+    </g>
+</svg>
